@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamiLinuxEngine 2", "KamiLinuxEngine 2\KamiLinuxEngine 2.csproj", "{4062A2B0-00A5-49D6-BD7F-FA7B8F87183F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamiLinuxEngine2 Development", "KamiLinuxEngine2 Development\KamiLinuxEngine2 Development.csproj", "{DCCF23BA-FBED-4674-9230-BB45BE8A37FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4062A2B0-00A5-49D6-BD7F-FA7B8F87183F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4062A2B0-00A5-49D6-BD7F-FA7B8F87183F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4062A2B0-00A5-49D6-BD7F-FA7B8F87183F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4062A2B0-00A5-49D6-BD7F-FA7B8F87183F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCF23BA-FBED-4674-9230-BB45BE8A37FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCF23BA-FBED-4674-9230-BB45BE8A37FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCF23BA-FBED-4674-9230-BB45BE8A37FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCF23BA-FBED-4674-9230-BB45BE8A37FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
